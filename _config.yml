@@ -10,6 +10,7 @@ github_username:  andrew4cloud
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minimal
 plugins:
   - jekyll-feed
+  -jekyll-seo-tag
