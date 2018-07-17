@@ -25,7 +25,6 @@ github_username:  andrew4cloud
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
