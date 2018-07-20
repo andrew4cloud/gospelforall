@@ -6,8 +6,8 @@ categories: Automation tool
 ---
 
 
-<object data="/static/Ansible From Beginner to Pro.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/Ansible From Beginner to Pro.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/Ansible From Beginner to Pro.pdf">Download PDF</a>.</p>
+<object data="/static/ansiblefrombeginnertopro.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/static/ansiblefrombeginnertopro.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/ansiblefrombeginnertopro.pdf">Download PDF</a>.</p>
     </embed>
 </object>
