@@ -6,33 +6,33 @@ categories: Version control
 ---
 
 
-<object data="/static/git-cheatsheet-EN-dark.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/git-cheatsheet-EN-dark.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/git-cheatsheet-EN-dark.pdf">Download PDF</a>.</p>
+<object data="/assets/git-cheatsheet-EN-dark.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/git-cheatsheet-EN-dark.pdf">
+        <p> Git Useful commands <a href="/assets/git-cheatsheet-EN-dark.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-<object data="/static/CLI-Cheat-Sheet.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/CLI-Cheat-Sheet.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/CLI-Cheat-Sheet.pdf.pdf">Download PDF</a>.</p>
+<object data="/assets/CLI-Cheat-Sheet.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/CLI-Cheat-Sheet.pdf">
+        <p> <a href="/assets/CLI-Cheat-Sheet.pdf.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-<object data="/static/Git for Subversion Users.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/Git for Subversion Users.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/Git for Subversion Users.pdf">Download PDF</a>.</p>
+<object data="/assets/Git for Subversion Users.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/Git for Subversion Users.pdf">
+        <p> <a href="/assets/Git for Subversion Users.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-<object data="/static/git-cheatsheet-EN-grey.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/git-cheatsheet-EN-grey.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/git-cheatsheet-EN-grey.pdf">Download PDF</a>.</p>
+<object data="/assets/git-cheatsheet-EN-grey.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/git-cheatsheet-EN-grey.pdf">
+        <p> <a href="/assets/git-cheatsheet-EN-grey.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-<object data="/static/git-cheatsheet-EN-white.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/git-cheatsheet-EN-white.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/git-cheatsheet-EN-white.pdf">Download PDF</a>.</p>
+<object data="/assets/git-cheatsheet-EN-white.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/git-cheatsheet-EN-white.pdf">
+        <p><a href="/assets/git-cheatsheet-EN-white.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

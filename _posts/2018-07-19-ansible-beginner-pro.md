@@ -6,8 +6,10 @@ categories: Automation tool
 ---
 
 
-<object data="/static/ansiblefrombeginnertopro.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/static/ansiblefrombeginnertopro.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/static/ansiblefrombeginnertopro.pdf">Download PDF</a>.</p>
+<object data="/assets/ansiblefrombeginnertopro.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/ansiblefrombeginnertopro.pdf">
+        <p>Welcome to Ansible: Beginner to Pro ! Throughout this book, you’re going to be introduced
+to facets of Ansible and how the program can be used to ensure that all of your machines
+are configured correctly, whether it’s your local desktop or a fleet of remote servers.<a href="/assets/ansiblefrombeginnertopro.pdf">Download PDF</a>.</p>
     </embed>
 </object>
