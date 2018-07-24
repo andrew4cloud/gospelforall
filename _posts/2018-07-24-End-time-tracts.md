@@ -6,5 +6,5 @@ categories: Gospel
 
 ## Time Will Delay No Longer!! The Kingdom of heaven has come near you... Repent!!! Believe in this Gospel
 
-<object data="/assets/GOTK_English_Ver4.pdf" type="application/pdf" width="1000px" height="1000px">    
+<object data="/assets/GOTK_English_Ver4.pdf" type="application/pdf" width="1000px" height="1000px"> 
 </object>
