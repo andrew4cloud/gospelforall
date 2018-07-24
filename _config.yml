@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 #baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://andrew4cloud.github.io/gospel4all.github.io" # the base hostname & protocol for your site
+url: "https://gospel4all.github.io" # the base hostname & protocol for your site
 cover: "/assets/earth.jpg"
 logo: "/assets/cross.png"
 
