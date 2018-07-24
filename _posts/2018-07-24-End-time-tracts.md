@@ -8,6 +8,6 @@ categories: Gospel
 
 <object data="/assets/GOTK_English_Ver4.pdf" type="application/pdf" width="1000px" height="1000px">
     <embed src="/assets/GOTK_English_Ver4.pdf">
-        <p>.<a href="/assets/GOTK_English_Ver4.pdf">Download PDF</a>.</p>
+        <p><a href="/assets/GOTK_English_Ver4.pdf">Download PDF</a>.</p>
     </embed>
 </object>
